@@ -1,0 +1,17 @@
+{
+  "name": "component-query-zest",
+  "description": "zest support for query",
+  "version": "0.0.1",
+  "keywords": [
+    "query",
+    "selector",
+    "engine",
+    "dom",
+    "elements"
+  ],
+  "dependencies": {
+    "component-zest": "git://github.com/npmcomponent/component-zest.git",
+    "component-query": "git://github.com/npmcomponent/component-query.git"
+  },
+  "license": "MIT"
+}

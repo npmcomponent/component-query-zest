@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var zest = require('zest')
-  , query = require('query');
+var zest = require('component-zest')
+  , query = require('component-query');
 
 // register engine
 
